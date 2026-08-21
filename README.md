@@ -82,4 +82,4 @@ bank_system/
 ├── schema.sql               # Database definition & admin seed
 └── transfer.php             # ACID-compliant fund transfer engine
 
-This project is open-source
+This project is open-source.
